@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="instagram.com/htgw.jpg">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="instagram.com/htgw.jpg">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
